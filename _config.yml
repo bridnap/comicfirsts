@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Comic Firsts
 tagline:             'Multiple Firsts for Comics'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'First appearances of key comic book figures along with notes and other important information.'
 url:                 http://comicfirsts.com
 baseurl:             http://comicfirsts.com
 paginate:            10
@@ -15,7 +15,7 @@ paginate:            10
 # About/contact
 author:
   name:              Brian Plunkett
-  url:               https://linked.com/briandplunkett
+  url:               https://linkedin.com/briandplunkett
   email:             brian.plunkett@gmail.com
 
 # Custom vars

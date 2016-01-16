@@ -4,27 +4,18 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey!  I'm a huge comic book character fan, and love reading the back stories and origins pretty much anything mainstream (Marvel and DC). So many of these characters are so well defined with such rich histories that you can tell by reading how important continuity is (with the exception of a retcon here and there).
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Site origins
+<p>What I wanted to do with this site was to pull down the information that is difficult for me to remember:  namely first appearance in the comics of each character, second appearances, and what makes those issues so important to the collector.  Gather this data is a daunting task in itself, so the sites aim is not to overburden with detail, but just pull the data that is difficult for me as a collector to find, and in that hopefully help you as well.</p>
 
-There are currently two themes built on Poole:
+<p>What I won't be doing is providing a lot of origin or synopsis content.  The Wikis, [Marvel](http://marvel.wikia.com/wiki/Marvel_Database) and [DC](http://dc.wikia.com/wiki/Main_Page), are fantastic resources.  There are a host of sites that can do a better job of retelling an origin story within their communities.</p>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+##
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<p>Let me know if this site helps you or if I got something wrong by contacting me at [LinkedIn](https://www.linkedin.com/in/briandplunkett). If interested in the website code, contact me at [GitHub](https://github.com/bridanp).  
 
-## Setup
+##
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for visiting!
