@@ -18,3 +18,5 @@ X-Men: Phoenix - Endsong #5
 *Affiliated With:* - X-Men
 
 *Costume Colors:* - White and Gold
+
+<img src="http://comicfirsts.com/images/marvel/x-men-phoenix-endsong-5.jpg">

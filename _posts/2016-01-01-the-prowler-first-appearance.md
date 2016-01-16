@@ -12,7 +12,7 @@ The Amazing Spider-Man #78, November 1969
 
 *True Name:* Hobie Brown
 
-*Second Iteration:*  <a href="http://bridanp.github.io/coverfirsts/2016/01/14/rick-lawson/">Rick Lawson</a>
+*Second Iteration:*  <a href="http://comicfirsts.com/2016/01/14/rick-lawson/">Rick Lawson</a>
 
 *Also Known As:*  Spider-Man
 
@@ -20,4 +20,4 @@ The Amazing Spider-Man #78, November 1969
 
 *Costume Colors:*  Green and Purple
 
-<img src="./images/marvel/the-amazing-spider-man-78.jpg">
+<img src="http://comicfirsts.com/images/marvel/the-amazing-spider-man-78.jpg">

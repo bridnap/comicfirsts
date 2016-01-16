@@ -25,3 +25,5 @@ Alive
 *Affiliated With:*  X-Men, X-Factor
 
 *Costume Colors:*  Multiple - Green/Yellow is well known, but X-Men colors, or the White Phoenix are also well known.
+
+<img src="http://comicfirsts.com/images/marvel/the-xmen-issue-1.jpg">
