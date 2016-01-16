@@ -23,3 +23,5 @@ Possibly Dead (Annihilation Silver Surfer #3, August 2006)
 *Also Known As:*  Frank, "God"
 
 *Costume Colors:*  Completely white outfit
+
+<img src="http://comicfirsts.com/images/marvel/marvel-secret-wars-issue-1.jpg">

@@ -21,3 +21,5 @@ Sensational Spider-Man #17, June 1997
 *Also Known As:*  Banshee
 
 *Costume Colors:*  Green and Yellow; X-Men Blue and Yellow
+
+<img src="http://comicfirsts.com/images/marvel/x-men-issue-28.jpg"

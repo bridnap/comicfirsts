@@ -22,3 +22,5 @@ Amazing Spider-man #239, April 1983
 *Also Known As:*  Demogoblin (with Jason Macendale wearing the mantle)
 
 *Costume Colors:*  Orange and Blue
+
+<img src="http://comicfirsts.com/images/marvel/amazing-spider-man-issue-238.jpg"

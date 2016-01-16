@@ -21,3 +21,5 @@ Unknown
 *Affiliated With:*  Jagged Skulls Gang
 
 *Costume Colors:*  Street clothing
+
+<img src="http://comicfirsts.com/images/marvel/amazing-spider-man-issue-408">
