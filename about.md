@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-<div style="float: left"; width:33%;>
-<img src="http://comicfirsts.com/images/marvel/amazing-spider-man-143.jpg">
-</div>
 <p class="message">
   Hey!  I'm a huge comic book character fan (Spider-Man, and specifically the relationship between Peter Parker and Mary Jane), and love reading the back stories and origins pretty much anything mainstream (Marvel and DC). So many of these characters are so well defined with such rich histories that you can tell by reading how important continuity is (with the exception of a retcon here and there).  
 </p>
@@ -18,6 +15,8 @@ What I wanted to do with this site was to pull down the information that is diff
 
 ##
 
-<p class="message">Let me know if this site helps you or if I got something wrong by contacting me at [LinkedIn](https://www.linkedin.com/in/briandplunkett). If interested in the website code, contact me at [GitHub](https://github.com/bridanp).  
+<p class="message">Let me know if this site helps you or if I got something wrong by contacting me at <a href="https://www.linkedin.com/in/briandplunkett">LinkedIn</a>. If interested in the website code, contact me at <a href="https://github.com/bridanp">Github</a>.  
 
 Thanks for visiting!
+
+<img src="http://comicfirsts.com/images/marvel/amazing-spider-man-143.jpg">
