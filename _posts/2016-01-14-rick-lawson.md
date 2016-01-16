@@ -22,4 +22,4 @@ Sensational Spider-Man #17, June 1997
 
 *Costume Colors:*  Green and Purple (Prowler)
 
-<img src="http://bridanp.github.io/coverfirsts/images/marvel/the-sensational-spider-man-16.jpg">
+<img src="./images/marvel/the-sensational-spider-man-16.jpg">

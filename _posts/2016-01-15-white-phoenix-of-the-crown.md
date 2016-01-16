@@ -1,29 +1,20 @@
 ---
 layout: post
-title: White Phoenix
+title: White Phoenix of the Crown
 
 ---
 
 **First Appearance**
 
+X-Men: Phoenix - Endsong #5
+
+*Note* - Easy book to pickup.  Grading #1 in the series is more valuable
 
 
-*Note* -
+*True Name:* - Jean Grey
 
-**Second Appearance**
+*Second Iteration:*  While only Jean has attained Crown status, these characters have become the White Phoenix:  Hope Summers in Earth 616; Madelyne Pryor (Earth 89112); Rachel Summers (Earth-811); Emma Frost (Earth-92124)
 
+*Affiliated With:* - X-Men
 
-
-**Status**
-
-
-
-*True Name:*
-
-*Second Iteration:*  
-
-*Also Known As:*  
-
-*Affiliated With:*  
-
-*Costume Colors:*  
+*Costume Colors:* - White and Gold

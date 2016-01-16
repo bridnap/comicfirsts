@@ -20,4 +20,4 @@ The Amazing Spider-Man #78, November 1969
 
 *Costume Colors:*  Green and Purple
 
-<img src="http://bridanp.github.io/coverfirsts/images/marvel/the-amazing-spider-man-78.jpg">
+<img src="./images/marvel/the-amazing-spider-man-78.jpg">
