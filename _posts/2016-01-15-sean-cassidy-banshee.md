@@ -22,4 +22,4 @@ Sensational Spider-Man #17, June 1997
 
 *Costume Colors:*  Green and Yellow; X-Men Blue and Yellow
 
-<img src="http://comicfirsts.com/images/marvel/x-men-issue-28.jpg"
+<img src="http://comicfirsts.com/images/marvel/x-men-issue-28.jpg">
