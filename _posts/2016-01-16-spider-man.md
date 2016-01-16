@@ -22,6 +22,6 @@ The Amazing Spider-Man, March 1963
 
 *Second Iteration:* - Ben Reilly, Miles Morales, Kaine Parker
 
-*Affiliated With:* - <a href="http://comicfirsts.com/2016-01-16-mary-jane-watson">Mary Jane</a>; Virtually everyone in the Marvel Universe
+*Affiliated With:* - <a href="http://comicfirsts.com/2016/01/16/mary-jane-watson/">Mary Jane</a>; Virtually everyone in the Marvel Universe
 
 *Costume Colors:* - Red/Blue; Black (symbiote); White (FF); Red/Gold (Iron Spider)

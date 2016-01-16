@@ -28,4 +28,4 @@ The Amazing Spider-Man #42, November 1966 (The Birth of a Super Hero)
 
 *Affiliated With:* - <a href="http://comicfirsts.com/2016-01-16-spider-man">Spider-Man</a>
 
-<img src="http://comicfirst.com/images/marvel/amazing-spider-man-issue-38.jpg">
+<img src="http://comicfirsts.com/images/marvel/amazing-spider-man-issue-38.jpg">
