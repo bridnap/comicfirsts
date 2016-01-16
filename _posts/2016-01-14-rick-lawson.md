@@ -14,6 +14,8 @@ Sensational Spider-Man #16, May 1997
 
 Sensational Spider-Man #17, June 1997
 
+**Miscellaneous**
+
 *Status:* Alive - Prison
 
 *True Name:* Rick Lawson

@@ -8,7 +8,8 @@ title: The Prowler
 
 The Amazing Spider-Man #78, November 1969
 
-**Second Appearance**
+
+**Miscellaneous**
 
 *True Name:* Hobie Brown
 

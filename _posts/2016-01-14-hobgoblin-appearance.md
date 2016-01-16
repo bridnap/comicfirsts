@@ -15,6 +15,8 @@ Amazing Spider-man #238, March 1983
 
 Amazing Spider-man #239, April 1983
 
+**Miscellaneous**
+
 *Status* - Alive
 
 *True Name(s):* Roderick Kingsley, Arnold Donovan, Ned Leeds, Jason Macendale, Daniel Kingsley, Phil Urich
