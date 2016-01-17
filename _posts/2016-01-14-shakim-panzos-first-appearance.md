@@ -14,7 +14,7 @@ Amazing Spider-Man #408, February 1996
 
 Story reprinted in Astonishing Spider-Man #34, April 1998
 
-**Miscellaneous**
+**Character Biography**
 
 *Affiliated With:*  Jagged Skulls Gang
 

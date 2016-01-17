@@ -16,7 +16,7 @@ The Amazing Spider-Man, March 1963
 
 *Note* - Again, any condition, if the price is right, buy it.
 
-**Miscellaneous**
+**Character Biography**
 
 *True Name:* - Peter Benjamin Parker
 

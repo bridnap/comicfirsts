@@ -11,7 +11,7 @@ X-Men: Phoenix - Endsong #5
 *Note* - Easy book to pickup.  Grading #1 in the series is more valuable
 
 
-**Miscellaneous**
+**Character Biography**
 
 *True Name:* - Jean Grey
 

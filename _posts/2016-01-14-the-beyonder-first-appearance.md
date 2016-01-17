@@ -18,7 +18,7 @@ Marvel Super Heroes Secret Wars #2, June 1984
 
 Possibly Dead (Annihilation Silver Surfer #3, August 2006)
 
-**Miscellaneous**
+**Character Biography**
 
 *True Name:* None pronounced
 

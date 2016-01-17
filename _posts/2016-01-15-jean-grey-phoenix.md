@@ -15,7 +15,7 @@ X-Men #1, September 1963
 X-Men #2, November 1963
 
 
-**Miscellaneous**
+**Character Biography**
 
 *True Name:* Jean Grey or Jean Grey Summers
 

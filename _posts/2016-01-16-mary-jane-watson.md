@@ -22,7 +22,7 @@ The Amazing Spider-Man #42, November 1966 (The Birth of a Super Hero)
 
 *Note* - The 3rd appearance of MJ, but the first look at her face.
 
-**Miscellaneous**
+**Character Biography**
 
 *True Name:* - Mary Jane Watson, Mary Jane Watson Parker, MJ
 

@@ -14,7 +14,7 @@ X-Men #28, January 1987 ("The Wail of the Banshee")
 
 Sensational Spider-Man #17, June 1997
 
-**Miscellaneous**
+**Character Biography**
 
 *Status:* Alive - Prison
 
