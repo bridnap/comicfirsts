@@ -28,7 +28,7 @@ Peter Parker, The Spectacular Spider-Man Vol 1 #48, November 1980
 
 *Affiliated With:* - Cat
 
-*Enemy Of:* - Cat, <a href="http://comicfirsts.com/2016/01/01/spider-man">Spider-Man</a>, Roderick Kingsley
+*Enemy Of:* - Cat, <a href="http://comicfirsts.com/2016/01/16/spider-man">Spider-Man</a>, Roderick Kingsley
 
 *Costume Colors:* - Street Clothes
 
