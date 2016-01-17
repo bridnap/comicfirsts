@@ -10,7 +10,7 @@ tagline:             'Multiple Firsts for Comics'
 description:         'First appearances of key comic book figures along with notes and other important information.'
 url:                 http://comicfirsts.com
 baseurl:             http://comicfirsts.com
-paginate:            10
+paginate:            20
 
 # About/contact
 author:
