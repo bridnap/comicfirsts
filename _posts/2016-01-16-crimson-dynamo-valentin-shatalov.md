@@ -8,9 +8,10 @@ title: Crimson Dynamo (Valentin Shatalov)
 
 Iron Man #255, April 1990
 
+<div style="float:left;"><img src="http://comicfirsts.com/images/marvel/character/crimson-dynamo.jpg"></div>
+
 *Note* -  It's the old "body switch" story with the Crimson Dynamo switching with Iron Man in this first appearance.  Issue isn't that collectible, but it has a variant (insert for a jewelry store) which is more rare.
 
-<div style="float:right;"><img src="http://comicfirsts.com/images/marvel/character/crimson-dynamo.jpg"></div>
 
 **Second Appearance**
 
