@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crimson Dynamo (Valentin Shatalov)
+category: marvel
 
 ---
 

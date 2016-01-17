@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Prowler
+category: marvel
 
 ---
 

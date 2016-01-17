@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sean Cassidy
+category: marvel
 
 ---
 

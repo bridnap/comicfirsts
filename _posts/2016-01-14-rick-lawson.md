@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rick Lawson
+category: marvel
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hobgoblin First Appearance
+category: marvel
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jean Grey
+category: marvel
 
 ---
 

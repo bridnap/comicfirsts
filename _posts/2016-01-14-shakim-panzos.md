@@ -1,6 +1,7 @@
   ---
 layout: post
 title: Shakim Panzos
+category: marvel
 
 ---
 

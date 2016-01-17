@@ -1,6 +1,7 @@
 ---
 layout: post
 title: White Phoenix of the Crown
+category: marvel
 
 ---
 
