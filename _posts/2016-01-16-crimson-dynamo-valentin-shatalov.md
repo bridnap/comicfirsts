@@ -12,6 +12,7 @@ Iron Man #255, April 1990
 
 **Second Appearance**
 
+<div style="float:left;"><img src="http://comicfirsts.com/images/marvel/iron-man-issue-255.jpg"></div>
 Soviet Super Soldiers #1, November 1992
 
 *Note* - Very inexpensive #1 issue that just didn't take off as a series.
