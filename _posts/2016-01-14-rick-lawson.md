@@ -21,7 +21,7 @@ Sensational Spider-Man #17, June 1997
 
 *True Name:* Rick Lawson
 
-*Also Known As:*  <a href="http://comicfirsts.com/the-prowler.html">The Prowler</a>
+*Also Known As:*  <a href="http://comicfirsts.com/marvel/the-prowler.html">The Prowler</a>
 
 *Costume Colors:*  Green and Purple (Prowler)
 

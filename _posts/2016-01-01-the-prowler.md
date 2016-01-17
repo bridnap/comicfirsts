@@ -14,7 +14,7 @@ The Amazing Spider-Man #78, November 1969
 
 *True Name:* Hobie Brown
 
-*Second Iteration:*  <a href="http://comicfirsts.com/rick-lawson.html">Rick Lawson</a>
+*Second Iteration:*  <a href="http://comicfirsts.com/marvel/rick-lawson.html">Rick Lawson</a>
 
 *Also Known As:*  Spider-Man
 

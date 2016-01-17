@@ -27,6 +27,6 @@ The Amazing Spider-Man #42, November 1966 (The Birth of a Super Hero)
 
 *True Name:* - Mary Jane Watson, Mary Jane Watson Parker, MJ
 
-*Affiliated With:* - <a href="http://comicfirsts.com/spider-man.html">Spider-Man</a>
+*Affiliated With:* - <a href="http://comicfirsts.com/marvel/spider-man.html">Spider-Man</a>
 
 <img src="http://comicfirsts.com/images/marvel/amazing-spider-man-issue-38.jpg">
