@@ -5,10 +5,10 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-    <span>
+    <span><strong>
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </span>
     {% endfor %}
 </div>
