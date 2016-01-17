@@ -8,7 +8,7 @@ title: Belladonna (Narda Ravanna)
 
 Peter Parker, The Spectacular Spider-Man Vol 1 #43, June 1980
 
-*Note* - First issue for writer Roger Stern; very inexpensive book that also introduces Roderick Kingsley (<a href="http://comicfirsts.com/2016/01/14/hobgobline-appearance">HobGoblin</a>).  Belladonna becomes a villain as she takes our her anger on Roderick.
+*Note* - First issue for writer Roger Stern; very inexpensive book that also introduces Roderick Kingsley (<a href="http://comicfirsts.com/2016/01/14/hobgoblin-appearance">HobGoblin</a>).  Belladonna becomes a villain as she takes our her anger on Roderick.
 
 **Second Appearance**
 
