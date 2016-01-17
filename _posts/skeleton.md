@@ -1,26 +1,33 @@
 ---
 layout: post
-title: Spider-Man
+title: Belladonna (Narda Ravanna)
 
 ---
 
 **First Appearance**
 
-Amazing Fantasy #15, August 1962
+Spectacular Spider-Man Vol 1 #43, June 1980
 
-*Note* - Find it, any condition, grab it if the price is right!
+*Note* - First issue for writer Roger Stern; very inexpensive book
 
 **Second Appearance**
 
-The Amazing Spider-Man, March 1963
+Spectacular Spider-Man Vol 1 #48, November 1980
 
-*Note* - Again, any condition, if the price is right, buy it.
+*Note* - Book includes Marvel details on circulation numbers for Spectacular Spider-Man
 
+**Character Biography**
 
-*True Name:* - Peter Benjamin Parker
+*True Name:* - Narda Ravanna
 
-*Second Iteration:* - Ben Reilly, Miles Morales, Kaine Parker
+*Also Known As* - Madam Belladonna
 
-*Affiliated With:* - Virtually everyone in the Marvel Universe
+*Identified As* - Human, chemist, criminal
 
-*Costume Colors:* - Red/Blue; Black (symbiote); White (FF); Red/Gold (Iron Spider)
+*Second Iteration:* - There is another Bella Donna (Boudreaux), but they are different characters
+
+*Affiliated With:* -
+
+*Enemy Of:* - Cat, <a href="http://comicfirsts.com/2016/01/01/spider-man">Spider-Man</a>, Roderick Kingsley
+
+*Costume Colors:* - Street Clothes
