@@ -19,7 +19,7 @@ Amazing Spider-man #239, April 1983
 
 *Status* - Alive
 
-*True Name(s):* <a href="http://comicfirsts.com/2016/01/16/roderick-kingsley">Roderick Kingsley</a>, Arnold Donovan, Ned Leeds, Jason Macendale, Daniel Kingsley, Phil Urich
+*True Name(s):* <a href="http://comicfirsts.com/roderick-kingsley.html">Roderick Kingsley</a>, Arnold Donovan, Ned Leeds, Jason Macendale, Daniel Kingsley, Phil Urich
 
 *Also Known As:*  Demogoblin (with Jason Macendale wearing the mantle)
 

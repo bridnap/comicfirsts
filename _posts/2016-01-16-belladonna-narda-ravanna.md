@@ -8,13 +8,13 @@ title: Belladonna (Narda Ravanna)
 
 Peter Parker, The Spectacular Spider-Man Vol 1 #43, June 1980
 
-*Note* - First issue for writer Roger Stern; very inexpensive book that also introduces Roderick Kingsley (<a href="http://comicfirsts.com/2016/01/14/hobgoblin-appearance">HobGoblin</a>).  Belladonna becomes a villain as she takes our her anger on Roderick.
+*Note* - First issue for writer Roger Stern; very inexpensive book that also introduces Roderick Kingsley (<a href="http://comicfirsts.com/hobgoblin.html">HobGoblin</a>).  Belladonna becomes a villain as she takes our her anger on Roderick.
 
 **Second Appearance**
 
 Peter Parker, The Spectacular Spider-Man Vol 1 #48, November 1980
 
-*Note* - Book includes Marvel details on circulation numbers for Spectacular Spider-Man.  Belladonna is still in an argument with Kingsley.  We also bring the <a href="http://comicfirsts.com/2016/01/01/the-prowler-first-appearance">The Prowler</a> into the book.
+*Note* - Book includes Marvel details on circulation numbers for Spectacular Spider-Man.  Belladonna is still in an argument with Kingsley.  We also bring the <a href="http://comicfirsts.com/the-prowler.html">The Prowler</a> into the book.
 
 **Character Biography**
 
@@ -28,7 +28,7 @@ Peter Parker, The Spectacular Spider-Man Vol 1 #48, November 1980
 
 *Affiliated With:* - Cat
 
-*Enemy Of:* - Cat, <a href="http://comicfirsts.com/2016/01/16/spider-man">Spider-Man</a>, Roderick Kingsley
+*Enemy Of:* - Cat, <a href="http://comicfirsts.com/spider-man.html">Spider-Man</a>, Roderick Kingsley
 
 *Costume Colors:* - Street Clothes
 
