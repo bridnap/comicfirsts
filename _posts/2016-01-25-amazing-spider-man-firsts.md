@@ -1,3 +1,8 @@
+---
+layout: post
+title: Amazing Spider-Man Firsts 
+category: marvel
+---
 Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic book of all time.   While other books have gone through many reboots and reiterations over the years, Spider-Man, for the most part has stayed consistently close to canon.  Of course, we cannot expect a character to never change and a reboot is going to happen from time to time (more so in the Modern Age).  Yet, these Spider-Man specific characters have developed into a true community over the life of The Amazing Spider-Man.  You can almost always expect Doctor Octopus or Vulture to be available to do something evil.  Mary Jane or the Osborns are never far from the central story.  And Peter Parker usually can be depended upon to have that old "Parker Luck" with his life and the women in it.  Below are some of the more important "comic firsts" for ASM.  We have the issue listed, and then a description of what makes that issue important to the reader and the colletor.
 
 *#1 - *While Amazing Fantasy *#15 is the official first appearance of Spider-Man, this is his first officially titled The Amazing Spider-Man.  Features the Fantastic Four along with the Chameleon.
@@ -22,7 +27,7 @@ Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic
 *#31 - *Peter's friend (nemesis) and future girlfriend arrive in the form of Harry Osborn and Gwen Stacy.
 *#36 - *The Looter?  Yep, he debuts in *#36!
 *#37 - *We've had the Green Goblin a few times already, but 37 is important because we get a small dose of Norman Osborn himself.
-*#38 - *Mary Jane's important, so we have to acknowledge her second appearance.  We can see her this time.  Still have to wait 4 issues before we see her face!
+*#38 - *<a href="http://comicfirsts.com/marvel/mary-jane-watson.html">Mary Jane's</a> important, so we have to acknowledge her second appearance.  We can see her this time.  Still have to wait 4 issues before we see her face!
 *#39 - *First acknowledgment that Norman Osborn is the Goblin.
 *#40 - *First origin story of the Green Goblin.  
 *#41 - *The Rhino crashes into Peter's world for the first time.
@@ -36,7 +41,7 @@ Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic
 *#61 - *While obviously appearing before, Gwen Stacy being an iconic Spidey characters makes her first cover appearance highly important.
 *#67 - *Randy Robertson makes his initial appearance in ASM.
 *#73 - *Initial appearance of Silvermane
-*#78 - *First appearance of the Prowler
+*#78 - *First appearance of the <a href="http://comicfirsts.com/marvel/the-prowler.html">Prowler</a>.
 *#86 - *First origin of the Black Widow.  This book is in my opinion why Amazing Spider-Man books are so valued and collectable.  They have so many origin stories for other important Marvel characters.  So many different tie-ins or introductions for the Black Widow types.
 *#96 - *Marvel's first Spider-Man book to break out of the Comics Code Authority and not display the stamp in the upper right.  Drug use or abuse was not an approved storyline, but this story needed to be told.  The storyline continues through to *#99, but only 96, 97, and 98 are without the stamp.
 *#101 - *Initial appearance of Morbius.  
@@ -46,7 +51,7 @@ Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic
 *#126 - *The original Goblin died just 4 books back, so here we have his son, Harry Osborn, taking up the Goblin's mantle.
 *#129 - *Initial appearance of The Punisher and The Jackal, although we know which one is more important.  Be careful buying this book.  Lion's Gate pushed out a copy that looks almost identical years later.  You'll only want the book that has The Jackal mentioned in the bottom right corner.
 *#194 - *1st Black Cat or Felicia Hardy if you will.
-*#238 - *First Hobgoblin (Ned Leeds Iteration)
+*#238 - *First <a href="http://comicfirsts.com/marvel/hobgoblin.html">Hobgoblin</a> (Ned Leeds Iteration)
 *#252 - *First appearance of the alien symbiote black suit
 *#298 - *It doesn't seem to hold the value like it did, but this is a double first:  Todd McFarlane's first cover and the first instance of Eddie Brock
 *#299 - *Obviously not to be far behind Brock, Venom appears in this issue, but only briefly.
