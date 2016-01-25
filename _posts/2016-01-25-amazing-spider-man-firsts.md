@@ -81,7 +81,7 @@ Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic
 
 <strong>#86 - </strong>First origin of the Black Widow.  This book is in my opinion why Amazing Spider-Man books are so valued and collectable.  They have so many origin stories for other important Marvel characters.  So many different tie-ins or introductions for the Black Widow types.
 
-<strong>#96 - </strong>Marvel's first Spider-Man book to break out of the Comics Code Authority and not display the stamp in the upper right.  Drug use or abuse was not an approved storyline, but this story needed to be told.  The storyline continues through to <strong>#99, but only 96, 97, and 98 are without the stamp.
+<strong>#96 - </strong>Marvel's first Spider-Man book to break out of the Comics Code Authority and not display the stamp in the upper right.  Drug use or abuse was not an approved storyline, but this story needed to be told.  The storyline continues through to #99, but only 96, 97, and 98 are without the stamp.
 
 <strong>#101 - </strong>Initial appearance of Morbius.  
 
