@@ -37,7 +37,7 @@ Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic
 
 <strong>#22 - </strong>You know who Princess Python is?  Me either, but she makes her debut here.
 
-<strong>#25 - </strong>Mary Jane beat Gwen to the pages of ASM by a few, making her debut along with Smythe in <strong>#25.  You can't see her, but she's there.
+<strong>#25 - </strong>Mary Jane beat Gwen to the pages of ASM by a few, making her debut along with Smythe in #25.  You can't see her, but she's there.
 
 <strong>#26 - </strong>The Man in the Crime-Master's Mask!  Eh, not a lot of love for him, but the book also has the Green Goblin on the cover.
 
