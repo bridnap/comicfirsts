@@ -27,7 +27,7 @@ Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic
 
 <strong>#14 - </strong>Green Goblin was Spidey's worst in the early years instead of Doctor Octopus and he makes his first appearance here (riding a mechanical looking broom).  Cover also features The Enforcers, Big Man, and The Hulk.
 
-<strong>#15 - </strong>Kraven first hunts Spidey in <strong>#15 with the Chameleon showing up again.  Mary Jane is mentioned but not shown.
+<strong>#15 - </strong>Kraven first hunts Spidey in #15 with the Chameleon showing up again.  Mary Jane is mentioned but not shown.
 
 <strong>#16 - </strong>Daredevil appears for the first time in ASM.  It's the early years and he's wearing his yellow costumer.  The RingMaster is also part of the action.
 
