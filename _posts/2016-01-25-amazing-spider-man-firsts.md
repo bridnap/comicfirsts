@@ -45,7 +45,7 @@ Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic
 
 <strong>#31 - </strong>Peter's friend (nemesis) and future girlfriend arrive in the form of Harry Osborn and Gwen Stacy.
 
-<strong>#36 - </strong>The Looter?  Yep, he debuts in <strong>#36!
+<strong>#36 - </strong>The Looter?  Yep, he debuts in #36!
 
 <strong>#37 - </strong>We've had the Green Goblin a few times already, but 37 is important because we get a small dose of Norman Osborn himself.
 
