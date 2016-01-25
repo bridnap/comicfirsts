@@ -5,7 +5,7 @@ category: marvel
 ---
 Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic book of all time.   While other books have gone through many reboots and reiterations over the years, Spider-Man, for the most part has stayed consistently close to canon.  Of course, we cannot expect a character to never change and a reboot is going to happen from time to time (more so in the Modern Age).  Yet, these Spider-Man specific characters have developed into a true community over the life of The Amazing Spider-Man.  You can almost always expect Doctor Octopus or Vulture to be available to do something evil.  Mary Jane or the Osborns are never far from the central story.  And Peter Parker usually can be depended upon to have that old "Parker Luck" with his life and the women in it.  Below are some of the more important "comic firsts" for ASM.  We have the issue listed, and then a description of what makes that issue important to the reader and the colletor.
 
-<strong>#1 - </strong>While Amazing Fantasy <strong>#15 is the official first appearance of Spider-Man, this is his first officially titled The Amazing Spider-Man.  Features the Fantastic Four along with the Chameleon.
+<strong>#1 - </strong>While Amazing Fantasy #15 is the official first appearance of Spider-Man, this is his first officially titled The Amazing Spider-Man.  Features the Fantastic Four along with the Chameleon.
 
 <strong>#2 - </strong>So many iconic villains, but the Chameleon and now the Vulture debuts here in the 2nd issue.
 
