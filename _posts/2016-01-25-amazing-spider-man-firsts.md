@@ -19,7 +19,7 @@ Spider-Man and specifically The Amazing Spider-Man is my personal favorite comic
 
 <strong>#9 - </strong>Electro appears with a scene on the front showing Spider-Man possibly defeated.  Love these initial covers that showed multiple panels on the front.
 
-<strong>#10 - </strong>Not an iconic group of villains, but The Enforcers and "Big Man" first appear in <strong>#10.
+<strong>#10 - </strong>Not an iconic group of villains, but The Enforcers and "Big Man" first appear in #10.
 
 <strong>#12 - </strong>The early books were always trying to unmask Peter, and this is the "first" cover to show it possibly happen.
 
