@@ -1,3 +1,9 @@
+---
+layout: post
+title: Amazing Spider-Man 194 8.0
+category: marvel
+---
+
 <h1>Amazing Spider-Man 194 (1963 1st Series) CGC 8.0</h1>
 
 <h3>Grading:  CGC 8.0</h3>
