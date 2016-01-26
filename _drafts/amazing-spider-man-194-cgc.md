@@ -20,7 +20,7 @@ First appearance of the Black Cat in Marvel<br/>
 Book Title:  "Never Let the Black Cat Cross Your Path!"</P>
 
 <h3>Shipping</h3>
-<p>Orders are shipped within 2 business days of payment being received.  Shipment is through USPS Priority Mail which delivers to your door within 1-3 days.</p>
+<p>Orders are shipped within 1 business day of payment being received.  Shipment is through USPS Priority Mail which delivers to your door within 1-3 days (estimated).</p>
 
 <h3>Combined Invoice</h3>
 <p>We combine shipping on all orders, but please notify your intent to order more if placing over more than a 24 hour period.</p>
