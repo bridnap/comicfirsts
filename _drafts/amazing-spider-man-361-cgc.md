@@ -13,6 +13,8 @@ Slab Quality:  New, unblemished<br/>
 Note:  This comic is sealed in an air-tight container which is encapsulated inside a locked plastic case to preserve the comics quality at grading.  Any attempt to remove the comic from the case will void the grade.</p>
 
 <h3>Image of Item for Sale</h3>
+<img src="http://comicfirsts.com/images/marvel/amazing-spider-man-361-front.jpg"><br/>
+<img src="http://comicfirsts.com/images/marvel/amazing-spider-man-361-back.jpg">
 
 <h3>Comic Book Details</h3>
 <p>Published April 1992<br/>
