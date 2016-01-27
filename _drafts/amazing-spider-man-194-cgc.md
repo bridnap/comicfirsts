@@ -13,6 +13,8 @@ Slab Quality:  New, unblemished<br/>
 Note:  This comic is sealed in an air-tight container which is encapsulated inside a locked plastic case to preserve the comics quality at grading.  Any attempt to remove the comic from the case will void the grade.</p>
 
 <h3>Image of Item for Sale</h3>
+<img src="https://bridanp.github.io/comicimages/images/asm-194-front.jpg"><br/>
+<img src="https://bridanp.github.io/comicimages/images/asm-194-back.jpg">
 
 <h3>Comic Book Details</h3>
 <p>Published June 1979<br/>
