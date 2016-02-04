@@ -4,6 +4,7 @@ title: Brave and the Bold Firsts
 category: dc
 ---
 
+The Brave and The Bold is a comic noteable for being a base for DC to introduce characters without investing heavily in book titles of their own.  If the characters took off, get them a book.  If not, keep them as secondary characters or just let them pass on into comic book oblivion.  The Brave and The Bold eventually became a Batman book full of team-ups with other DC characters and then finally just a Batman book by itself.
 
 <strong>#1 - </strong>Issue #1 featured Golden Gladiator, Viking Prince, and Silent Knight.
 
