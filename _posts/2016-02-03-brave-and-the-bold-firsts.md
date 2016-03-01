@@ -13,7 +13,7 @@ The Brave and The Bold is a comic noteable for being a base for DC to introduce 
 
 <strong>#25 - </strong>1st appearance of The Suicide Squad and Rick Flag.
 
-<img class="alignleft size-medium wp-image-30" src="http://comicfirsts.com/wp-content/uploads/2016/02/brave-bold-issue-28-187x300.jpg" alt="Brave and the Bold 28" width="187" height="300" />
+<div style="float:left;"><img src="http://comicsguy.github.io/comicimages/images/The-Brave-and-the-Bold-Vol.-1-28-1960.jpg" alt="Brave and the Bold 28"/>
 
 <strong>#28 - </strong>1st appearance of the Justice League of America - Easily the most valuable book from The Brave and the Bold.
 
@@ -28,8 +28,6 @@ The Brave and The Bold is a comic noteable for being a base for DC to introduce 
 <strong>#35 - </strong>2nd appearances for Hawkman, Hawkgirl, plus a debut of Matter Master.
 
 <strong>#36 - </strong>The Shadow Thief appears here.
-
-<img class="alignleft size-medium wp-image-31" src="http://comicfirsts.com/wp-content/uploads/2016/02/the-brave-and-the-bold-issue-54-210x300.jpg" alt="brave and the bold 54" width="210" height="300" />
 
 <strong>#54 - </strong>Appearing for the first time, The Teen Titans. They aren't named within, but they do feature Aqualad, Kid Flash, and Robin.
 
