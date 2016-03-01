@@ -13,7 +13,7 @@ The Brave and The Bold is a comic noteable for being a base for DC to introduce 
 
 <strong>#25 - </strong>1st appearance of The Suicide Squad and Rick Flag.
 
-<div style="float:left;"><img src="http://comicsguy.github.io/comicimages/images/The-Brave-and-the-Bold-Vol.-1-28-1960.jpg" alt="Brave and the Bold 28"/></div>
+<img src="http://comicsguy.github.io/comicimages/images/The-Brave-and-the-Bold-Vol.-1-28-1960.jpg" alt="Brave and the Bold 28"/>
 
 <strong>#28 - </strong>1st appearance of the Justice League of America - Easily the most valuable book from The Brave and the Bold.
 
