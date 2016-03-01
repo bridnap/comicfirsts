@@ -13,6 +13,6 @@ category: forsale
 | For Sale | Yes
 | Condition | CGC 9.6
 | Price | Best Offer
-| More Availability | <a href="ebay.com">ebay</a>
+| More Availability | <a href="https://www.ebay.com">ebay</a>
 
 <img src="http://comicsguy.github.io/comicimages/images/asm-361-front.jpg"/>
